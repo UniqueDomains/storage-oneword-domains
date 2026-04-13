@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .storage one-word domains from Uni
 
 **Public extract:** 9,815 rows · **Live catalog:** 9,815 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/storage`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | Nokia.storage      | premium   | —         | —             | 88             | 84     | 5      | —                     |
 | good.storage       | available | $799      | $949.99       | 82             | 55     | 4      | name.com              |
 | sheraton.storage   | premium   | —         | —             | 52             | 84     | 8      | —                     |
-| alpha.storage      | available | $799      | $949.99       | 90             | 54     | 5      | name.com              |
+| zero.storage       | available | $799      | $949.99       | 112            | 53     | 4      | name.com              |
 | authentic.storage  | premium   | —         | —             | 76             | 83     | 9      | —                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
