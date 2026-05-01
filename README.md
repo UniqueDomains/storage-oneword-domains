@@ -1,10 +1,10 @@
-# Available .STORAGE One-Word Domains (12,388)
+# Available .STORAGE One-Word Domains (12,816)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C388%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C816%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .storage one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,388 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,816 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,388 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,816 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/storage`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| CocaCola.storage     | available | $858      | —             | 92             | 82     | 9      | namecheap |
-| hotels.storage       | available | $509.99   | $529.99       | 64             | 82     | 6      | namesilo  |
-| Chanel.storage       | available | $858      | —             | 80             | 77     | 6      | namecheap |
-| makers.storage       | available | $509.99   | $529.99       | 62             | 67     | 6      | namesilo  |
-| online.storage       | available | $799      | —             | 70             | 62     | 7      | name.com  |
-| donuts.storage       | available | $799      | —             | 54             | 62     | 6      | name.com  |
-| Ryan.storage         | available | $858      | —             | 60             | 44     | 4      | namecheap |
-| coins.storage        | available | $799      | —             | 56             | 41     | 5      | name.com  |
-| shortcuts.storage    | available | $799      | —             | 48             | 41     | 10     | name.com  |
-| matcha.storage       | available | $799      | —             | 86             | 39     | 6      | name.com  |
-| prompts.storage      | available | $509.99   | $529.99       | 54             | 39     | 7      | namesilo  |
-| justin.storage       | available | $799      | —             | 58             | 38     | 7      | name.com  |
-| neuroscience.storage | available | $799      | —             | 80             | 37     | 12     | name.com  |
-| tokens.storage       | available | $509.99   | $529.99       | 51             | 36     | 6      | namesilo  |
-| aliens.storage       | available | $509.99   | $529.99       | 56             | 35     | 6      | namesilo  |
-| tickets.storage      | available | $509.99   | $529.99       | 64             | 34     | 7      | namesilo  |
-| etc.storage          | available | $799      | —             | 58             | 34     | 3      | name.com  |
-| Cats.storage         | available | $858      | —             | 59             | 33     | 4      | namecheap |
-| payments.storage     | available | $799      | —             | 58             | 33     | 8      | name.com  |
-| trends.storage       | available | $799      | —             | 60             | 32     | 6      | name.com  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| CocaCola.storage    | available | $858      | —             | 92             | 82     | 9      | namecheap |
+| hotels.storage      | available | $509.99   | $529.99       | 64             | 82     | 6      | namesilo  |
+| Chanel.storage      | available | $858      | —             | 80             | 77     | 6      | namecheap |
+| makers.storage      | available | $509.99   | $529.99       | 62             | 67     | 6      | namesilo  |
+| online.storage      | available | $799      | —             | 70             | 62     | 7      | name.com  |
+| Ryan.storage        | available | $858      | —             | 60             | 44     | 4      | namecheap |
+| coins.storage       | available | $799      | —             | 56             | 41     | 5      | name.com  |
+| shortcuts.storage   | available | $799      | —             | 48             | 41     | 10     | name.com  |
+| matcha.storage      | available | $799      | —             | 86             | 39     | 6      | name.com  |
+| prompts.storage     | available | $509.99   | $529.99       | 54             | 39     | 7      | namesilo  |
+| tokens.storage      | available | $509.99   | $529.99       | 51             | 36     | 6      | namesilo  |
+| tickets.storage     | available | $509.99   | $529.99       | 64             | 34     | 7      | namesilo  |
+| etc.storage         | available | $799      | —             | 58             | 34     | 3      | name.com  |
+| payments.storage    | available | $799      | —             | 58             | 33     | 8      | name.com  |
+| trends.storage      | available | $799      | —             | 60             | 32     | 6      | name.com  |
+| maps.storage        | available | $799      | —             | 56             | 31     | 4      | name.com  |
+| solutions.storage   | available | $799      | —             | 56             | 31     | 9      | name.com  |
+| slots.storage       | available | $509.99   | $529.99       | 49             | 31     | 5      | namesilo  |
+| inspiration.storage | available | $799      | —             | 88             | 30     | 11     | name.com  |
+| videos.storage      | available | $799      | —             | 52             | 30     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,388 live domains                              |
+| 1,000-row public sample | 12,816 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
