@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .storage one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,816 domains · **Median ask:** $748.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/storage`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | Chanel.storage    | available | $858      | —             | 80             | 77     | 6      | namecheap |
 | jewels.storage    | available | $799      | —             | 80             | 15     | 6      | name.com  |
 | geton.storage     | available | $799      | —             | 82             | 10     | 6      | name.com  |
-| popup.storage     | available | $799      | —             | 84             | 29     | 6      | name.com  |
+| popup.storage     | available | $799      | —             | 84             | 28     | 6      | name.com  |
 | matcha.storage    | available | $799      | —             | 86             | 39     | 6      | name.com  |
 | stirup.storage    | available | $799      | —             | 82             | 3      | 7      | name.com  |
 | CocaCola.storage  | available | $858      | —             | 92             | 82     | 9      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
