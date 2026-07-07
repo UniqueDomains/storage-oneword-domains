@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .storage one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,816 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,816 domains · **Median ask:** $748.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,816 domains · **Median ask:** $599.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/storage`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/storage`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .STORAGE one-word doma
 
 ### Files
 
-- `storage.csv` — public CSV extract (1,000 rows)
-- `storage.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `storage.csv`, public CSV extract (1,000 rows)
+- `storage.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.storage      | available | $799      | —             | 80             | 26     | 4      | name.com  |
-| Trex.storage      | available | $858      | —             | 80             | 24     | 5      | namecheap |
-| Chanel.storage    | available | $858      | —             | 80             | 77     | 6      | namecheap |
-| jewels.storage    | available | $799      | —             | 80             | 15     | 6      | name.com  |
-| geton.storage     | available | $799      | —             | 82             | 10     | 6      | name.com  |
-| popup.storage     | available | $799      | —             | 84             | 28     | 6      | name.com  |
-| matcha.storage    | available | $799      | —             | 86             | 39     | 6      | name.com  |
-| stirup.storage    | available | $799      | —             | 82             | 3      | 7      | name.com  |
-| CocaCola.storage  | available | $858      | —             | 92             | 82     | 9      | namecheap |
-| hotels.storage    | available | $509.99   | $529.99       | 64             | 82     | 6      | namesilo  |
-| makers.storage    | available | $509.99   | $529.99       | 62             | 67     | 6      | namesilo  |
-| online.storage    | available | $799      | —             | 70             | 62     | 7      | name.com  |
-| Ryan.storage      | available | $858      | —             | 60             | 44     | 4      | namecheap |
-| coins.storage     | available | $799      | —             | 56             | 41     | 5      | name.com  |
-| shortcuts.storage | available | $799      | —             | 48             | 41     | 10     | name.com  |
-| prompts.storage   | available | $509.99   | $529.99       | 54             | 39     | 7      | namesilo  |
-| tokens.storage    | available | $509.99   | $529.99       | 51             | 36     | 6      | namesilo  |
-| tickets.storage   | available | $509.99   | $529.99       | 64             | 34     | 7      | namesilo  |
-| etc.storage       | available | $799      | —             | 58             | 34     | 3      | name.com  |
-| payments.storage  | available | $799      | —             | 58             | 33     | 8      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| add.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
+| portable.storage | resell    | —         | —             | high           | low    | 8      | Go Daddy, LLC |
+| memory.storage   | premium   | $509.99   | $529.99       | high           | medium | 6      | namesilo      |
+| ale.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
+| and.storage      | available | $509.99   | $529.99       | high           | medium | 3      | namesilo      |
+| Ann.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
+| AOL.storage      | available | $509.99   | $529.99       | high           | high   | 3      | namesilo      |
+| bob.storage      | available | $509.99   | $529.99       | high           | medium | 3      | namesilo      |
+| buy.storage      | available | $799      | —             | high           | medium | 3      | name.com      |
+| cat.storage      | available | $509.99   | $529.99       | high           | high   | 3      | namesilo      |
+| cot.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
+| dew.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
+| dry.storage      | available | $799      | $949.99       | high           | low    | 3      | name.com      |
+| far.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
+| gee.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
+| god.storage      | available | $509.99   | $529.99       | high           | medium | 3      | namesilo      |
+| how.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
+| ill.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
+| kid.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
+| lag.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by a single attribute: the .storage extension. That makes comparison straightforward. Focus first on whether the word fits the storage suffix naturally. Generic terms such as one.storage, tips.storage, homes.storage, and jewels.storage are easier to justify as broad brands or category plays. Terms that match famous brands or products, such as Chanel.storage or WiFi.storage, need extra caution because trademark risk can outweigh any pricing appeal. When comparing these domains, weigh naming clarity against the niche nature of .storage, and treat the median ask of $748 as a useful reference point rather than proof of value.
+This selection includes one-word domain names registered under the .storage extension, spanning categories like wellness, lifestyle, and everyday phrases (for example, affirmation.storage, getlife.storage, and tips.storage). With a median ask near $600, this .storage list offers a mix of brandable, easy-to-spell names alongside more niche, descriptive terms. Because .storage signals storage-related use cases—from self-storage facilities to cloud and logistics services—many of these one-word names carry immediate industry relevance for founders building in the space, while investors can compare asking prices across a broad .storage inventory to spot fair-value picks.
 
-- Generic words fit .storage better than trademarked terms
-- Median ask is $748 across this .storage selection
-- Check whether the keyword pairs naturally with .storage
-- Favor memorable words with clear commercial meaning
+- 12,816 one-word .storage domain names in this selection
+- Median ask near $600 across the list
+- Mix of brandable, everyday, and niche one-word terms
+- Names suited to storage, logistics, and self-storage brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
