@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .storage one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,250 domains · **Median ask:** $549.50 · **High-demand under $2,500:** 91
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/storage`
 **Best for:** founders, investors, studios
 
@@ -66,6 +66,9 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
 | half.storage     | available | $509.99   | $529.99       | high           | low    | 4      | namesilo      |
 | okay.storage     | available | $799      | $949.99       | high           | low    | 4      | name.com      |
+| beauty.storage   | available | $509.99   | $529.99       | high           | low    | 6      | namesilo      |
+| nothing.storage  | available | $509.99   | $529.99       | high           | low    | 7      | namesilo      |
+| jesus.storage    | available | $509.99   | $529.99       | high           | medium | 5      | namesilo      |
 | add.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
 | portable.storage | resell    | —         | —             | high           | low    | 8      | Go Daddy, LLC |
 | memory.storage   | premium   | $509.99   | $529.99       | high           | medium | 6      | namesilo      |
@@ -81,9 +84,6 @@ print(df.head())
 | cot.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
 | dew.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
 | dry.storage      | available | $799      | $949.99       | high           | low    | 3      | name.com      |
-| far.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
-| gee.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
-| god.storage      | available | $509.99   | $529.99       | high           | medium | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
