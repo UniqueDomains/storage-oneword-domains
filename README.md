@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .storage one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,497 domains · **Median ask:** $539.61 · **High-demand under $2,500:** 90
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/storage`
 **Best for:** founders, investors, studios
 
@@ -74,11 +74,11 @@ print(df.head())
 | memory.storage   | premium   | $509.99   | $529.99       | high           | medium | 6      | namesilo      |
 | ale.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
 | and.storage      | available | $509.99   | $529.99       | high           | medium | 3      | namesilo      |
-| Ann.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
-| AOL.storage      | available | $509.99   | $529.99       | high           | high   | 3      | namesilo      |
+| ann.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
+| aol.storage      | available | $509.99   | $529.99       | high           | high   | 3      | namesilo      |
 | ass.storage      | available | $509.99   | $529.99       | low            | low    | 3      | namesilo      |
 | bob.storage      | available | $509.99   | $529.99       | high           | medium | 3      | namesilo      |
-| buy.storage      | available | $509.99   | $529.99       | medium         | medium | 3      | namesilo      |
+| buy.storage      | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo      |
 | cat.storage      | available | $509.99   | $529.99       | high           | high   | 3      | namesilo      |
 | clx.storage      | available | $509.99   | $529.99       | low            | low    | 3      | namesilo      |
 | cot.storage      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STORAGE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
